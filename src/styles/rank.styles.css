@@ -1,0 +1,20 @@
+.rank{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:200px;
+    
+
+}
+.user-name{
+    color: white;
+    font-size: 25px;
+
+}
+.user-rank{
+    color:white;
+    font-weight: bold;
+    font-size:40px;
+    margin-top:0;
+}
